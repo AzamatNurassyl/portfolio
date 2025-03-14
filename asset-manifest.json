@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a1d8520f.css",
+    "main.js": "/portfolio/static/js/main.f8a2c556.js",
+    "static/js/453.acca0757.chunk.js": "/portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/Mega project.png": "/portfolio/static/media/Mega project.f2008081eaad85872bb0.png",
+    "static/media/Shah.png": "/portfolio/static/media/Shah.1980df178cb1cbf39141.png",
+    "static/media/Page Travel.png": "/portfolio/static/media/Page Travel.3e32fcf04089bac70cf9.png",
+    "static/media/Mukhammad Travel.png": "/portfolio/static/media/Mukhammad Travel.6f1009b6212c870c4c31.png",
+    "static/media/01.jpg": "/portfolio/static/media/01.98763673673b646ab30d.jpg",
+    "static/media/02.jpg": "/portfolio/static/media/02.08078ddc408ec1ea6aa7.jpg",
+    "static/media/header_bg.png": "/portfolio/static/media/header_bg.e18f5cac7e27729afead.png",
+    "static/media/Sun.svg": "/portfolio/static/media/Sun.51393a375a81e44f27f1e33d713ca0ae.svg",
+    "static/media/Moon.svg": "/portfolio/static/media/Moon.a84eb240a8739f0ef02594df4c131706.svg",
+    "static/media/gitHub.svg": "/portfolio/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/Vector.svg": "/portfolio/static/media/Vector.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "static/media/instagram.svg": "/portfolio/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
+    "static/media/vk.svg": "/portfolio/static/media/vk.ffb489eeac4ab842395ffb315910ea7f.svg",
+    "static/media/twitter.svg": "/portfolio/static/media/twitter.d4b0a40866d7b735834b96db6728afc1.svg",
+    "index.html": "/portfolio/index.html",
+    "main.a1d8520f.css.map": "/portfolio/static/css/main.a1d8520f.css.map",
+    "main.f8a2c556.js.map": "/portfolio/static/js/main.f8a2c556.js.map",
+    "453.acca0757.chunk.js.map": "/portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1d8520f.css",
+    "static/js/main.f8a2c556.js"
+  ]
+}
