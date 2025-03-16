@@ -13,21 +13,21 @@ const projects = [
         skills:'JavaScript, HTML, CSS, NPM, React Js.',
         img: project1,
         imgBig: projectMega,
-        gitHubLink: 'https://github.com/AzamatNurassyl',
+        gitHubLink1: 'https://azamatnurassyl.github.io/MegaAlmaty/',
     }, 
     {
         title:'Shah Reastaurant',
         skills:'JavaScript, HTML, CSS, NPM, React Js.',
         img: project2,
         imgBig: projectShah,
-        gitHubLink: 'https://github.com/AzamatNurassyl',
+        gitHubLink2: 'https://azamatnurassyl.github.io/Shah-Restaurant/',
     },
     {
         title:'Mukhammad Travel',
         skills:'JavaScript, HTML, CSS, NPM, React Js.',
         img: project3,
         imgBig: projectTravel,
-        gitHubLink: 'https://github.com/AzamatNurassyl',
+        gitHubLink3: 'https://azamatnurassyl.github.io/Mukhammad-Travel/',
     },
 ]
 

@@ -13,6 +13,7 @@ import Project from "./pages/Project";
 import ScrollToTop from "./components/utils/scrollToTop";
 
 
+
 function App() {
   return (
     <div className="App">
@@ -20,9 +21,10 @@ function App() {
       <Router>
         <Navbar/>
         <ScrollToTop />
+        
         <Routes>
-
-          <Route path="/" element={<Home />}/>
+          <Route path="/portfolio" element={<Home />}/>  
+          <Route path="/" element={<Home />}/>  
           <Route path="/projects" element={<Projects />}/>
           <Route path="/contacts" element={<Contacts /> }/>
           <Route path="/skills" element={<Skills /> }/>
