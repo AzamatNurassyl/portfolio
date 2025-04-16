@@ -56,7 +56,7 @@
     /* Header  */
 
     .header {
-        min-height: unset;
+        min-height: 500px;
     }
 
     .header__title {
