@@ -3,7 +3,7 @@ import imgIcon from "./Vector.svg";
 
 const BtnGitHub = ({link}) => {
     return ( 
-        <a href={link} target="_blank" className="btn-outline">
+        <a href={link} className="btn-outline">
                 <img src={imgIcon} alt="gitHub"/>
                 Visit site
          </a>

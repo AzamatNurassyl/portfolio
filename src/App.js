@@ -19,10 +19,14 @@ function App() {
     <div className="App">
 
       <Router>
+        
+        
         <Navbar/>
+
         <ScrollToTop />
         
         <Routes>
+  
           <Route path="/portfolio" element={<Home />}/>  
           <Route path="/" element={<Home />}/>  
           <Route path="/projects" element={<Projects />}/>

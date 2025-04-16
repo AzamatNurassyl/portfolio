@@ -1,0 +1,17 @@
+.MuiButtonBase-root, 
+.MuiList-root {
+    display: none !important;
+}
+
+@media (max-width: 768px) {
+    .MuiButtonBase-root, 
+    .MuiList-root {
+        display: block !important;
+    }
+
+    .feather {
+        color: #5c62ec ;
+    }
+}
+
+

@@ -9,12 +9,12 @@ import projectTravel from "./../img/pages/Page Travel.png";
 
 const projects = [
     {
-        title:'Mega',
+        title:'Mukhammad Travel',
         skills:'JavaScript, HTML, CSS, NPM, React Js.',
-        img: project1,
-        imgBig: projectMega,
-        gitHubLink1: 'https://azamatnurassyl.github.io/MegaAlmaty/',
-    }, 
+        img: project3,
+        imgBig: projectTravel,
+        gitHubLink1: 'https://azamatnurassyl.github.io/Mukhammad-Travel/',
+    },
     {
         title:'Shah Reastaurant',
         skills:'JavaScript, HTML, CSS, NPM, React Js.',
@@ -23,12 +23,12 @@ const projects = [
         gitHubLink2: 'https://azamatnurassyl.github.io/Shah-Restaurant/',
     },
     {
-        title:'Mukhammad Travel',
+        title:'Mega',
         skills:'JavaScript, HTML, CSS, NPM, React Js.',
-        img: project3,
-        imgBig: projectTravel,
-        gitHubLink3: 'https://azamatnurassyl.github.io/Mukhammad-Travel/',
-    },
+        img: project1,
+        imgBig: projectMega,
+        gitHubLink3: 'https://azamatnurassyl.github.io/MegaAlmaty/',
+    }, 
 ]
 
 export {projects}

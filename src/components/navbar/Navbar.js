@@ -1,7 +1,10 @@
 import BtnDarkMode from "../btnDarkMode/BtnDarkMode";
 import "./style.css";
-
 import { NavLink } from "react-router-dom";
+import React from 'react';
+import BtnMobileMenu from "../btnMobileMenu/BtnMobileMenu";
+
+
 
 
 
@@ -21,7 +24,6 @@ const Navbar = () => {
                         </NavLink>
 
                         <BtnDarkMode/>
-
                     <ul className="nav-list">
                         
                         <li className="nav-list__item">
@@ -36,9 +38,8 @@ const Navbar = () => {
                         <li className="nav-list__item">
                         <NavLink to="/contacts" className={({isActive}) => isActive ? activeLink : normalLink } >Contacts</NavLink>
                         </li>
-                    </ul>                   
-
-
+                    </ul> 
+                        <BtnMobileMenu/>
                 </div>
             </div>
         </nav>

@@ -24,9 +24,9 @@ const Project = () => {
                     <p>{project.skills}</p>
                 </div>
 
-            {project.gitHubLink1 && (  <BtnGitHub link="https://azamatnurassyl.github.io/MegaAlmaty/" />)}
+            { project.gitHubLink1 && (  <BtnGitHub link="https://azamatnurassyl.github.io/Mukhammad-Travel/" />)} 
             { project.gitHubLink2 && (  <BtnGitHub link="https://azamatnurassyl.github.io/Shah-Restaurant/" />)} 
-            { project.gitHubLink3 && (  <BtnGitHub link="https://azamatnurassyl.github.io/Mukhammad-Travel/" />)} 
+            { project.gitHubLink3 && (  <BtnGitHub link="https://azamatnurassyl.github.io/MegaAlmaty/" />)}
 
              </div>
 

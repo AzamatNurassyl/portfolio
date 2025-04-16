@@ -7,11 +7,12 @@ const Skills = () => {
                 <ul className="content-list">
                     <li className="content-list__item">
                         <h2 className="title-2">Frontend</h2>
-                        <p>JavaScript, HTML, CSS, NPM, React Js.</p>
-                    </li>
-                    <li className="content-list__item">
-                        <h3 className="title-2">Backend</h3>
-                        <p>Not yet</p>
+                        <p>1. HTML</p>
+                        <p>2. CSS</p>
+                        <p>3. JavaScript</p>
+                        <p>4. React Js</p>
+                        <p>5. Figma</p>
+                        <p>6. Npm</p>
                     </li>
                 </ul>
             
